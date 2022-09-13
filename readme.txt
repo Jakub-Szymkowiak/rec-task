@@ -1,0 +1,3 @@
+- Rozwiązania zadań znajdują się w notatnikach: task1.ipynb, task2.ipynb, task3.ipynb.
+- Notatniki korzystają z plików simulator.py (moduły pozwalający na uruchomienie symulatora) i analysis.py (moduły z narzędziami, których użyłem do analizy wyników).
+- W folderze src znajduje się kod źródłowy symulacji.
